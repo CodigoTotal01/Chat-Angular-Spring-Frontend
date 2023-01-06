@@ -1,4 +1,5 @@
 # ChatApp
+![image](https://user-images.githubusercontent.com/85316618/211101248-b31aafc8-f1de-4dae-92a6-494f8f5300b5.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
